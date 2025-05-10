@@ -14,4 +14,4 @@ Once preferences are selected, users can chat naturally with the bot and receive
 3. Run the app:
 
 ```bash
-python app.py
+app.py
