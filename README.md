@@ -15,3 +15,4 @@ Once preferences are selected, users can chat naturally with the bot and receive
 
 ```bash
 app.py
+![image](https://github.com/user-attachments/assets/bdd28898-fb7a-45ca-b0d9-1e21a01d1919)
